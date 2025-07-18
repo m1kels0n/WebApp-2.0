@@ -1,0 +1,20 @@
+npm install firebase
+
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyDM-Ksgch8DJIGD5YpSg7SaP28F2Dm3sR8",
+  authDomain: "lagmay-irrigation-v2.firebaseapp.com",
+  projectId: "lagmay-irrigation-v2",
+  storageBucket: "lagmay-irrigation-v2.firebasestorage.app",
+  messagingSenderId: "997036670223",
+  appId: "1:997036670223:web:255e97be8144a2ff4e927a"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
