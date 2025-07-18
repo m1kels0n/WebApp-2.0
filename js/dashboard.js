@@ -14,22 +14,22 @@ const container = document.getElementById("dash-container");
 // Replace with your actual Thing and variable IDs
 const systems = [
   {
-    user: "student1@email.com",
+    user: "group1plantmonitorin@gmail.com",
     label: "Tomato",
     thingId: "THING_ID_1"
   },
   {
-    user: "student2@email.com",
+    user: "sgroup2plantmonitorin@gmail.com",
     label: "Basil",
     thingId: "THING_ID_2"
   },
   {
-    user: "student3@email.com",
+    user: "group3plantmonitorin@gmail.com",
     label: "Lettuce",
     thingId: "THING_ID_3"
   },
   {
-    user: "student4@email.com",
+    user: "group4plantmonitorin@gmail.com",
     label: "Mint",
     thingId: "THING_ID_4"
   }
